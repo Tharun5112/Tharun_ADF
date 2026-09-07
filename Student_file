@@ -1,0 +1,19 @@
+student_id,first_name,last_name,department,year,email,phone,gpa,enrollment_date
+2001,Aarav,Sharma,Computer Science,1,aarav.sharma@university.com,9876500001,3.4,2022-08-01
+2002,Meera,Rao,Mechanical,2,meera.rao@university.com,9876500002,3.2,2021-08-01
+2003,Rahul,Patel,Electrical,3,rahul.patel@university.com,9876500003,3.6,2020-08-01
+2004,Divya,Menon,Civil,4,divya.menon@university.com,9876500004,3.1,2019-08-01
+2005,Vikram,Joshi,Computer Science,2,vikram.joshi@university.com,9876500005,3.8,2021-08-01
+2006,Ananya,Desai,IT,1,ananya.desai@university.com,9876500006,3.5,2022-08-01
+2007,Siddharth,Verma,Mechanical,3,siddharth.verma@university.com,9876500007,3.0,2020-08-01
+2008,Pooja,Gupta,Electrical,2,pooja.gupta@university.com,9876500008,3.7,2021-08-01
+2009,Karan,Iyer,Civil,4,karan.iyer@university.com,9876500009,3.3,2019-08-01
+2010,Neha,Kumar,Computer Science,1,neha.kumar@university.com,9876500010,3.9,2022-08-01
+2011,Arjun,Reddy,IT,2,arjun.reddy@university.com,9876500011,3.4,2021-08-01
+2012,Megha,Nair,Mechanical,3,megha.nair@university.com,9876500012,3.2,2020-08-01
+2013,Rohan,Das,Electrical,4,rohan.das@university.com,9876500013,3.6,2019-08-01
+2014,Divya,Sen,Civil,1,divya.sen@university.com,9876500014,3.1,2022-08-01
+2015,Vivek,Shah,Computer Science,2,vivek.shah@university.com,9876500015,3.8,2021-08-01
+...
+2099,Anjali,Krishnan,Mechanical,3,anjali.krishnan@university.com,9876500099,3.5,2020-08-01
+2100,Raj,Mehta,Electrical,4,raj.mehta@university.com,9876500100,3.7,2019-08-01
