@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,designation,email,phone,salary,joining_date
+1001,Arjun,Kumar,IT,Software Engineer,arjun.kumar@company.com,9876543210,65000,2021-06-15
+1002,Meera,Rao,HR,HR Manager,meera.rao@company.com,9876543211,72000,2020-03-10
+1003,Rahul,Sharma,Finance,Accountant,rahul.sharma@company.com,9876543212,58000,2022-01-05
+1004,Divya,Patel,Marketing,Marketing Executive,divya.patel@company.com,9876543213,60000,2021-09-20
+1005,Vikram,Joshi,Sales,Sales Manager,vikram.joshi@company.com,9876543214,75000,2019-11-12
+1006,Ananya,Menon,IT,System Analyst,ananya.menon@company.com,9876543215,67000,2022-07-01
+1007,Siddharth,Verma,Finance,Financial Analyst,siddharth.verma@company.com,9876543216,62000,2020-12-18
+1008,Pooja,Desai,Operations,Operations Executive,pooja.desai@company.com,9876543217,59000,2021-04-25
+1009,Karan,Gupta,IT,Database Administrator,karan.gupta@company.com,9876543218,70000,2019-08-30
+1010,Neha,Iyer,Marketing,Content Strategist,neha.iyer@company.com,9876543219,64000,2022-02-14
